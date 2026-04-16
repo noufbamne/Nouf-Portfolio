@@ -32,7 +32,7 @@ Open `index.html` in your browser.
 ---
 
 ## 🔗 Live Preview
-(Add GitHub Pages link here if deployed)
+(https://nouf-portfolio-rose.vercel.app/)
 
 ---
 
